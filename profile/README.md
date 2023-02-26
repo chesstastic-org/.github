@@ -1,7 +1,3 @@
-<div align = "center">
-<h1>Chesstastic</h1>
-</div>
-
 ## Overview
 
 Chesstastic is a project by me, [Cormanz](https://github.com/Cormanz/Cormanz), with the goal of making chess variants more accessible. The end goal of the project is to create a website where users can do the following:
